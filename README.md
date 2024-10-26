@@ -18,3 +18,7 @@
                  git checkout main  (move from feature1 --> main)
                  git branch
                  git checkout feature1 (move from main --> feature1 )
+                 git checkout -b feature2
+                 git branch
+                 git branch -d feature1     //to delete a specific branch
+
